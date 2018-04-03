@@ -47,7 +47,7 @@ public class VselenskiPatnikMendo {
 		System.out.println(result);		
 	}
 	
-	static class FastReader {		
+	private static class FastReader {		
 		private BufferedReader br;
 		private StringTokenizer st;
 		
